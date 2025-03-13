@@ -16,7 +16,7 @@
 The ESP32 acts as a **Wi-Fi Access Point** and serves a webpage showing real-time water levels. The page updates automatically every **2 seconds**.  
 
 ### **🔗 Web Interface Screenshot**  
-[![Web Interface Preview](IMAGE_LINK_HERE)](IMAGE_LINK_HERE)  
+[![Web Interface Preview](https://github.com/binayak9932/Project_LAB/blob/main/Water_Level/web.png)](https://github.com/binayak9932/Project_LAB/blob/main/Water_Level/web.png)  
 *Click the image to view full size.*
 
 ---
