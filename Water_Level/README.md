@@ -18,7 +18,8 @@ The ESP32 acts as a **Wi-Fi Access Point** and serves a webpage showing real-tim
 ### **🔗 Web Interface Screenshot**  
 [![Web Interface Preview](https://github.com/binayak9932/Project_LAB/blob/main/Water_Level/web.png)](https://github.com/binayak9932/Project_LAB/blob/main/Water_Level/web.png)  
 
-
+## 🌐 Diagram 
+[![Diagram preview](https://github.com/binayak9932/Project_LAB/blob/main/Water_Level/2.png)](https://github.com/binayak9932/Project_LAB/blob/main/Water_Level/2.png)
 ---
 
 ## 📌 Pin Connections  
