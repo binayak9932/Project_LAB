@@ -69,19 +69,19 @@ void loop() {
 String getWaterLevel(int sensorValue) {
     String level;
     
-    if (sensorValue >= 400 && sensorValue <= 1000) {
+    if (sensorValue >= 2200 && sensorValue <= 2380) {
         level = "FULL";
         digitalWrite(FULL_LED, HIGH);
         digitalWrite(MEDIUM_LED, LOW);
         digitalWrite(LOW_LED, LOW);
     } 
-    else if (sensorValue >= 1900 && sensorValue <= 2200) {
+    else if (sensorValue >= 2600 && sensorValue <= 2640) {
         level = "MEDIUM";
         digitalWrite(FULL_LED, LOW);
         digitalWrite(MEDIUM_LED, HIGH);
         digitalWrite(LOW_LED, LOW);
     } 
-    else if (sensorValue >= 2300) {
+    else if (sensorValue >= 2642) {
         level = "LOW";
         digitalWrite(FULL_LED, LOW);
         digitalWrite(MEDIUM_LED, LOW);
